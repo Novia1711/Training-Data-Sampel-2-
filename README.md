@@ -36,8 +36,13 @@ Kelas     : Sains Data C
 
 ## Dataset Data Pemilu KPU (Klasifikasi)
 ### 1. Sampel Dataset (Menggunakan Algoritma Decision Tree)
+![2022-10-25 (20)](https://user-images.githubusercontent.com/105399054/197754292-27fa6a0e-0fd6-470d-b436-7aa8bc94773f.png)
 ### 2. Himpunan Data (Dataset)
+![2022-10-25 (19)](https://user-images.githubusercontent.com/105399054/197754120-2ffc193a-f12c-4df3-87e6-09ef226c3e43.png)
 ### 3. Pola/Model Data
+![image](https://user-images.githubusercontent.com/105399054/197755470-a3022bb8-956e-4a11-9847-f27f60d22fc7.png)
+
+![2022-10-25 (21)](https://user-images.githubusercontent.com/105399054/197755782-f980b36d-c69c-49ee-8d71-36a68c396367.png)
 
 ## Dataset Heating Oil (Asosiasi, Estimasi) 
 ### 1. Sampel Dataset (Menggunakan Algoritma Correlation Matrix)
