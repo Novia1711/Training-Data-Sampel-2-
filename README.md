@@ -46,15 +46,26 @@ Kelas     : Sains Data C
 
 ## Dataset Heating Oil (Asosiasi, Estimasi) 
 ### 1. Sampel Dataset (Menggunakan Algoritma Correlation Matrix)
+![2022-10-25 (22)](https://user-images.githubusercontent.com/105399054/197757454-42b1b586-0561-484a-9754-763ca52f5752.png)
 ### 2. Himpunan Data (Dataset)
+![2022-10-25 (23)](https://user-images.githubusercontent.com/105399054/197757599-3810be24-4d8f-47ed-ad07-6a7e10b564c7.png)
 ### 3. Pola/Model Data
+![image](https://user-images.githubusercontent.com/105399054/197757668-985d7bb2-9150-421e-8331-ce15da5dd3a3.png)
+
+![2022-10-25 (25)](https://user-images.githubusercontent.com/105399054/197757886-a604a676-8463-4b5e-8569-d9f9046fc04a.png)
 
 ## Dataset Transaksi (Association)
 ### 1. Sampel Dataset (Menggunakan Algoritma FP-Growth & Create Association Rules)
+![2022-10-25 (28)](https://user-images.githubusercontent.com/105399054/197764270-0a0d8483-bb20-4a24-bb19-75a942e54cdc.png)
 ### 2. Himpunan Data (Dataset)
+![2022-10-25 (29)](https://user-images.githubusercontent.com/105399054/197764352-8e598e59-2316-4af7-b5e3-e540c68c8d61.png)
 ### 3. Pola/Model Data
+![2022-10-25 (31)](https://user-images.githubusercontent.com/105399054/197764575-66a81338-26c2-483c-a719-fa77b0f205a2.png)
 
 ## Dataset Harga Saham (Forecasting) (Uni dan Multi) 
 ### 1. Sampel Dataset (Menggunakan Algoritma Natural Net)
+![2022-10-25 (32)](https://user-images.githubusercontent.com/105399054/197766479-3fd397e4-e3e0-4ea0-bf9f-1193fc71ccce.png)
 ### 2. Himpunan Data (Dataset)
+![2022-10-25 (35)](https://user-images.githubusercontent.com/105399054/197766656-c02e1500-b75f-4167-b9a8-7492fda9bad0.png)
 ### 3. Pola/Model Data
+![2022-10-25 (36)](https://user-images.githubusercontent.com/105399054/197766774-6b63ec05-f64c-4c3e-954c-5ae765e2fdf0.png)
