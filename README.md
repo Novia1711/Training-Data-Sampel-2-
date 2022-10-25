@@ -30,8 +30,9 @@ Kelas     : Sains Data C
 
 ## Dataset CPU (Estimasi)
 ### 1. Sampel Dataset (Menggunakan Algoritma linier Regreeion)
-### 2. Himpunan Data (Dataset)
-### 3. Pola/Model Data
+![2022-10-25 (13)](https://user-images.githubusercontent.com/105399054/197694309-55e9df00-efa6-4be8-a28b-fc058deccb74.png)
+### 2. Himpunan Data (Dataset) dan Pola Data
+![2022-10-25 (18)](https://user-images.githubusercontent.com/105399054/197695248-63965764-1580-42a0-8c5c-75e3e28310e8.png)
 
 ## Dataset Data Pemilu KPU (Klasifikasi)
 ### 1. Sampel Dataset (Menggunakan Algoritma Decision Tree)
